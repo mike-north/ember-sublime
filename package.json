@@ -1,7 +1,7 @@
 {
   "name": "ember-sublime",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Ember.js tooling for Sublime Text",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/levanto-financial/ember-sublime.git",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Mike North <michael.l.north@gmail.com> (http://mike.works)",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
