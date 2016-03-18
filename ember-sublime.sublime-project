@@ -1,0 +1,23 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+      "name": "EmberSublime",
+      "folder_exclude_patterns": ["node_modules", "bower_components", "tmp"]
+    }
+  ],
+  "settings": {
+    "tab_size": 2
+  },
+  "build_systems": [
+    {
+      "name": "Ember-CLI Server",
+      "shell_cmd": "ember s"
+    },
+    {
+      "name": "Ember-CLI Tests",
+      "shell_cmd": "ember test ci"
+    }
+  ]
+}
