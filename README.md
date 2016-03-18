@@ -1,6 +1,14 @@
-# Ember-sublime
+# ember-sublime
 
-This README outlines the details of collaborating on this Ember addon.
+Sublime Test tooling for Ember.js projects. 
+
+## Use
+
+Install the addon
+
+`ember install ember-sublime`
+
+And the installation blueprint will set up the Sublime Text 3 project configuration for your ember.js app or addon.
 
 ## Installation
 
