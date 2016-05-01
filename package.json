@@ -1,6 +1,6 @@
 {
   "name": "ember-sublime",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Ember.js tooling for Sublime Text",
   "directories": {
     "doc": "doc",
