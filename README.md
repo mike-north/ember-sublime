@@ -1,5 +1,7 @@
 # ember-sublime
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-sublime.svg)](https://greenkeeper.io/)
+
 Sublime Test tooling for Ember.js projects. 
 
 ## Use
